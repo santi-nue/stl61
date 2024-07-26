@@ -2,4 +2,4 @@
 
 win 64 release:
 
-https://nightly.link/santi-nue/stl61/workflows/main/master/vrscore.zip
+https://nightly.link/santi-nue/stl61/workflows/main/main/vrscore.zip
